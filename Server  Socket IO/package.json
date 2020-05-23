@@ -1,0 +1,15 @@
+{
+  "name": "soket.io",
+  "version": "1.0.0",
+  "description": "Socket.io esp32",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "mazwaz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
